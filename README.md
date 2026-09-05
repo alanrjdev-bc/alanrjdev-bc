@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Alan Rj
 
-<!--
-**alanrjdev-bc/alanrjdev-bc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ☕ Java Developer | Learning Spring Boot | Backend Development | SQL
 
-Here are some ideas to get you started:
+## 🎓 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Diploma Graduate
+- Currently pursuing BCA (Bachelor of Computer Applications) at IGNOU
+
+## 🌱 Currently Learning
+
+- Core Java
+- Object-Oriented Programming
+- SQL
+- Spring Boot
+- Git & GitHub
+
+## 🛠️ Skills
+
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+## 🎯 My Goal
+
+I'm currently building my foundation in Java and backend development
+and working towards becoming a professional Java backend developer.
+
+## 📌 Projects
+
+- ☕ Java Practice
+- 🚀 More projects coming soon...
